@@ -1,0 +1,16 @@
+2025-03-26 18:26:05,115 - ERROR - ⚠️ ข้อผิดพลาดหลัก: Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method
+Traceback (most recent call last):
+  File "C:\Users\65307\fire_detection_project\fire-discord12-wintest.py", line 158, in main
+    await system.client.wait_until_ready()
+  File "D:\Users\65307\miniconda3\envs\fire_detection\lib\site-packages\discord\client.py", line 1203, in wait_until_ready
+    raise RuntimeError(
+RuntimeError: Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method
+2025-03-26 18:26:29,712 - ERROR - ⚠️ ข้อผิดพลาดหลัก: Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method
+Traceback (most recent call last):
+  File "C:\Users\65307\fire_detection_project\fire-discord12-wintest.py", line 158, in main
+    await system.client.wait_until_ready()
+  File "D:\Users\65307\miniconda3\envs\fire_detection\lib\site-packages\discord\client.py", line 1203, in wait_until_ready
+    raise RuntimeError(
+RuntimeError: Client has not been properly initialised. Please use the login method or asynchronous context manager before calling this method
+2025-03-26 18:33:05,213 - ERROR - ❌ ไม่พบช่อง Discord (ID: 1348828995558441010)
+2025-03-26 18:36:06,448 - ERROR - ❌ ไม่พบช่อง Discord (ID: 1354418108126855171)
